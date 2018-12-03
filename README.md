@@ -20,5 +20,5 @@ Clonare il progetto su xCode, e settare nel file "ViewController.swift" le costa
 
 Per eseguire dei test, una volta completate la fase dei prerequisiti e la fase di intallazione, basterà avviare avviare l'App da simulatore
 
-## Authors
+## Autore
 Giuliano Pes
