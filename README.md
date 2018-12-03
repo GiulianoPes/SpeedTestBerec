@@ -16,9 +16,9 @@ Mentre sulla macchina dove si vuole eseguire l'App, occorre posizionare i medesi
 
 Clonare il progetto su xCode, e settare nel file "ViewController.swift" le costanti "ipUrl" e "stringUrl", che rappresentano rispettivamente l'ip per eseguire l'algoritmo di calcolo della latenza media, mentre la seconda costante rappresenta l'URL per raggiungere la directory con i file necessari all'esecuzione dei test, posizionati all'interno della "Webserver directory index" del server di test scelto.
 
-## Avvio dei test
+### Avvio dei test
 
 Per eseguire dei test, una volta completate la fase dei prerequisiti e la fase di intallazione, basterà avviare avviare l'App da simulatore
 
-## Autore
+### Autore
 Giuliano Pes
